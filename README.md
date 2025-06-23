@@ -5,6 +5,7 @@ The extension demonstrates how modern browsers are evolving into powerful ML pla
 
 [![Watch the video](https://i.ytimg.com/vi/sKoqNSU0jOc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBsgeAAtAFigIMCAAQARhgIGAoYDAP&rs=AOn4CLCfnqxh_Eyhd6mlmH0e7brjsbpJyw)](https://youtu.be/sKoqNSU0jOc?si=C5x8il0eIexFxZeW)
 
+![aed7fd79bcbceb247202078076bb8011](https://github.com/user-attachments/assets/77fcbc62-16bc-4e3a-bd45-8b9d36b5a09d)
 
 
 More background:
