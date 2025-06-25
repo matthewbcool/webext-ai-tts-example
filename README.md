@@ -12,6 +12,7 @@ https://github.com/user-attachments/assets/21daf3a3-a968-4b0d-bacd-b8a4e44d48bf
 Load the extension in Firefox Nightly and double check permissions.  
 `about:addons`
 `about:debugging#/runtime/this-firefox` 
+<img width="923" alt="a26e95c15bac3e17e23c9764ba47960d" src="https://github.com/user-attachments/assets/71867586-1dea-4383-b8df-0569c7f97894" />
 
 ![aed7fd79bcbceb247202078076bb8011](https://github.com/user-attachments/assets/77fcbc62-16bc-4e3a-bd45-8b9d36b5a09d)
 More background:
